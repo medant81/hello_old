@@ -1,4 +1,4 @@
-module hello_old
+module github.com/medant81/hello_old
 
 go 1.22.1
 
